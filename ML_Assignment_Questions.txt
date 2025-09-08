@@ -1,0 +1,39 @@
+BK Birla College
+ML Algorithms and Model Building
+
+Instructions:
+- All tasks must be submitted on or before the specified deadline.
+- Tasks should be submitted strictly in PDF format only.
+
+Task 1: ML Basics - Your First Data Science Project
+Objective:
+Learn the fundamentals of machine learning by completing a full ML workflow from
+data loading to model evaluation. Understand the difference between supervised and
+unsupervised learning through hands-on practice.
+
+Reference Datasets:
+- Titanic dataset (Kaggle - beginner friendly)
+- Iris dataset (built into sklearn)
+- Boston Housing dataset (built into sklearn)
+
+Approach:
+1. Load the Titanic dataset using pandas
+2. Explore the data with basic statistics and visualizations
+3. Handle missing values (simple fill or drop methods)
+4. Split data into training and testing sets (80/20)
+5. Try both supervised (predict survival) and unsupervised (group passengers) tasks
+6. Use sklearn libraries for basic models
+7. Evaluate results with simple accuracy scores
+8. Document the complete ML workflow
+
+Deliverables:
+- Jupyter notebook with complete workflow
+- Basic data visualizations (bar charts, histograms)
+- Simple model predictions
+- One-page summary of supervised vs unsupervised learning
+
+Evaluation Criteria:
+- Can you load and explore data successfully?
+- Do you understand train/test split concept?
+- Can you explain the difference between supervised and unsupervised learning?
+- Is the workflow clear and documented?
